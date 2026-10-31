@@ -30,4 +30,5 @@ int main() {
     while (w--) {
         solve();
     }
+    return 0;
 }
